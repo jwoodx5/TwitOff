@@ -1,2 +1,2 @@
 # TwitOff
-A web application for comparing Twitter users
+A Flask application that utilizes NLP and machine learning to compare tweet similarities, integrating Twitter API for dynamic data retrieval.
